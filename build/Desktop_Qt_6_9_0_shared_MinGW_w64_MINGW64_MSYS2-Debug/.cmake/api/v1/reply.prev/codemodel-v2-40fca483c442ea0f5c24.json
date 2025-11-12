@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-aa336411acdef68763b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tic_Tac_Toe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tic_Tac_Toe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tic_Tac_Toe-Debug-aab09f2d0037c644cb67.json",
+					"name" : "Tic_Tac_Toe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tic_Tac_Toe_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tic_Tac_Toe_autogen-Debug-62beac34c911ddc2635c.json",
+					"name" : "Tic_Tac_Toe_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tic_Tac_Toe_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tic_Tac_Toe_autogen_timestamp_deps-Debug-d596f6cb5e64457476dc.json",
+					"name" : "Tic_Tac_Toe_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Danil/Documents/Tic_Tac_Toe/build/Desktop_Qt_6_9_0_shared_MinGW_w64_MINGW64_MSYS2-Debug",
+		"source" : "C:/Users/Danil/Documents/Tic_Tac_Toe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
